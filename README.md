@@ -1,6 +1,6 @@
-# Demo app for 
+# Demo app for react-native-community/react-native-webview/issues/1383
 
-This project exhibits the issue highlighted in and currently happening with `react-native-webview@9.4.0`, specifically on Android.
+This project exhibits the issue highlighted in react-native-community/react-native-webview/issues/1383 and currently happening with `react-native-webview@9.4.0`, specifically on Android.
 
 How to test:
 

@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.11.0",
     "react-native": "0.62.2",
-    "react-native-webview": "^9.4.0"
+    "react-native-webview": "git+ssh://git@github.com:flochtililoch/react-native-webview#d353213fa563bdc16ad8b72dcabe758e822475b9"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",

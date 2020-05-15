@@ -4956,10 +4956,9 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-webview@^9.4.0:
+"react-native-webview@git+ssh://git@github.com:flochtililoch/react-native-webview#d353213fa563bdc16ad8b72dcabe758e822475b9":
   version "9.4.0"
-  resolved "https://registry.yarnpkg.com/react-native-webview/-/react-native-webview-9.4.0.tgz#108da34a6c7e1c032dcabc942b7e4947ca1d8028"
-  integrity sha512-BBOFUuza0p04+7fNi7TJmB0arpDJzGxHYwTCgI4vj5n/fl7u4jbm7ETp88mf7lo9lP6C6HGLo38KnEy1aXCQkg==
+  resolved "git+ssh://git@github.com:flochtililoch/react-native-webview#d353213fa563bdc16ad8b72dcabe758e822475b9"
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
